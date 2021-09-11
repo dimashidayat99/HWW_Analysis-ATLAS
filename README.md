@@ -1,6 +1,6 @@
 # Particle Physics Analysis Tutorials
 
-This repository will introduce you to particle physics experiment analysis. Here, we will learn how the particle physics analyses work including some basic particle physics theory and some basic programming (yes of course, particle physics analyses use programming!). 
+This repository will introduce you to particle physics experiment analysis. Here, we will learn how the particle physics analysis work using programming (yes of course, particle physics analysis use programming!). 
 
 Below, I had listed the "things" that is needed before we start on the tutorial.
 
