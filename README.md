@@ -32,8 +32,7 @@ Next things to do is as follows:
 1. Install [Anaconda](https://docs.anaconda.com/anaconda/install/) using the Ubuntu terminal, use the Anaconda for Linux to install Anaconda in Ubuntu. For the tutorial please use this [link](https://phoenixnap.com/kb/how-to-install-anaconda-ubuntu-18-04-or-20-04).
 2. Setup a Conda environment first and use it.
 
-Before setup the Conda environment, please make sure now we are on `base` environment. If you are not in the `base` try to use this command.
-
+Before setup the Conda environment, please make sure now we are on `base` environment. If you are not in the `base` try to use this command and please specify your own directory e.g. change `username` to you own path.
 ```bash
 eval "$(/home/username/anaconda3/bin/conda shell.bash hook)"
 ```
